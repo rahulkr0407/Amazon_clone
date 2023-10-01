@@ -1,0 +1,1 @@
+Amazon clone built using HTML and CSS. This is a basic template, and you may customize it based on your project's specifics.
